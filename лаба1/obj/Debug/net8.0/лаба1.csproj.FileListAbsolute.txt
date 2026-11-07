@@ -1,0 +1,16 @@
+C:\Users\Mikhail\работы\Лабораторная работа 1\лаба1\bin\Debug\net8.0\лаба1.exe
+C:\Users\Mikhail\работы\Лабораторная работа 1\лаба1\bin\Debug\net8.0\лаба1.deps.json
+C:\Users\Mikhail\работы\Лабораторная работа 1\лаба1\bin\Debug\net8.0\лаба1.runtimeconfig.json
+C:\Users\Mikhail\работы\Лабораторная работа 1\лаба1\bin\Debug\net8.0\лаба1.runtimeconfig.dev.json
+C:\Users\Mikhail\работы\Лабораторная работа 1\лаба1\bin\Debug\net8.0\лаба1.dll
+C:\Users\Mikhail\работы\Лабораторная работа 1\лаба1\bin\Debug\net8.0\лаба1.pdb
+C:\Users\Mikhail\работы\Лабораторная работа 1\лаба1\obj\Debug\net8.0\лаба1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mikhail\работы\Лабораторная работа 1\лаба1\obj\Debug\net8.0\лаба1.AssemblyInfoInputs.cache
+C:\Users\Mikhail\работы\Лабораторная работа 1\лаба1\obj\Debug\net8.0\лаба1.AssemblyInfo.cs
+C:\Users\Mikhail\работы\Лабораторная работа 1\лаба1\obj\Debug\net8.0\лаба1.csproj.CoreCompileInputs.cache
+C:\Users\Mikhail\работы\Лабораторная работа 1\лаба1\obj\Debug\net8.0\лаба1.dll
+C:\Users\Mikhail\работы\Лабораторная работа 1\лаба1\obj\Debug\net8.0\refint\лаба1.dll
+C:\Users\Mikhail\работы\Лабораторная работа 1\лаба1\obj\Debug\net8.0\лаба1.pdb
+C:\Users\Mikhail\работы\Лабораторная работа 1\лаба1\obj\Debug\net8.0\лаба1.genruntimeconfig.cache
+C:\Users\Mikhail\работы\Лабораторная работа 1\лаба1\obj\Debug\net8.0\ref\лаба1.dll
+C:\Users\Mikhail\работы\Лабораторная работа 1\лаба1\obj\Debug\net8.0\лаба1.csproj.Up2Date
